@@ -25,6 +25,7 @@ public class Assignment_01 {
 			System.out.println("Test failed");
 			
 		}
+		driver.close();
 		
 	}
 
